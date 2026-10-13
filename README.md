@@ -410,3 +410,14 @@ This scraper extracts only publicly accessible data Facebook serves to logged-ou
 ## Keywords
 
 `facebook-scraper` `facebook-api` `facebook-profile-scraper` `facebook-page-scraper` `facebook-no-login` `facebook-no-api-key` `facebook-public-data` `facebook-graph-alternative` `facebook-followers-api` `facebook-verification-api` `facebook-page-info` `facebook-emails` `facebook-page-emails` `facebook-business-pages` `facebook-page-category` `facebook-aggregate-rating` `facebook-localbusiness` `social-media-scraper` `social-media-intelligence` `lead-generation` `b2b-lead-gen` `crm-enrichment` `influencer-discovery` `micro-influencers` `verified-pages` `brand-monitoring` `competitor-research` `web-scraping` `apify` `apify-actor` `python-sdk` `hunter-alternative` `apollo-alternative`
+
+
+<!-- portfolio-sdk-apivault-facebook-profile-scraper -->
+
+## Install the hosted Actor client from PyPI
+
+```bash
+pip install apivault-facebook-profile-scraper
+```
+
+See [apivault-facebook-profile-scraper](packages/apivault-facebook-profile-scraper/README.md) for current input, spending caps, run resumption and diagnostics. This client calls the hosted Apify Actor. Apify run charges still apply.

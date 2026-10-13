@@ -1,0 +1,22 @@
+[build-system]
+requires = ["setuptools>=77", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "apivault-facebook-profile-scraper"
+version = "0.1.0"
+description = "Python client for Facebook Profile & Posts Scraper on Apify. Run, resume and download results with diagnostics."
+readme = "README.md"
+requires-python = ">=3.10"
+license = "MIT"
+license-files = ["LICENSE"]
+authors = [{name="ApiVault Labs"}]
+keywords = ["apify", "python-sdk", "facebook", "profile", "scraper"]
+
+[project.urls]
+Homepage = "https://apify.com/apivault_labs/facebook-profile-scraper"
+Source = "https://github.com/apivault-labs/facebook-profile-scraper-python/tree/main/packages/apivault-facebook-profile-scraper"
+Documentation = "https://github.com/apivault-labs/facebook-profile-scraper-python/tree/main/packages/apivault-facebook-profile-scraper#readme"
+
+[tool.setuptools.packages.find]
+include = ["apivault_facebook_profile_scraper*"]
