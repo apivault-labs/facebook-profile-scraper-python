@@ -421,3 +421,15 @@ pip install apivault-facebook-profile-scraper
 ```
 
 See [apivault-facebook-profile-scraper](packages/apivault-facebook-profile-scraper/README.md) for current input, spending caps, run resumption and diagnostics. This client calls the hosted Apify Actor. Apify run charges still apply.
+
+<!-- apivault-integrations:start -->
+## Hosted Actor and integrations
+
+- [Run Facebook Profile & Posts Scraper — No Login, Emails & Phones on Apify](https://apify.com/apivault_labs/facebook-profile-scraper).
+- [Current pricing and usage terms](https://apify.com/apivault_labs/facebook-profile-scraper/pricing).
+- [n8n community package: n8n-nodes-apivault-facebook](https://www.npmjs.com/package/n8n-nodes-apivault-facebook).
+- [n8n source and usage](https://github.com/apivault-labs/n8n-nodes-apivault-facebook).
+- [n8n source and usage](https://github.com/apivault-labs/apivault-labs/tree/main/community-nodes/n8n-nodes-apivault-facebook).
+
+An Apify account and API token are required. Hosted Actor/platform charges apply. npm publication is not n8n verification or confirmation of n8n Cloud availability.
+<!-- apivault-integrations:end -->
